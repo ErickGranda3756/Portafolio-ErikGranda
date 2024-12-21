@@ -4,7 +4,8 @@ import certificado3 from "../assets/certificados/imagenes/HatunSoft Parti.png";
 import certificado4 from "../assets/certificados/imagenes/HatunSoft Ganador.png";
 import certificado5 from "../assets/certificados/imagenes/Talleres Tecnologicos.png";
 import certificado6 from "../assets/certificados/imagenes/Suficiencia.png";
-import certificado7 from "../assets/certificados/imagenes/Edutin Laravel.png"
+import certificado7 from "../assets/certificados/imagenes/Edutin Laravel.png";
+import certificado8 from "../assets/certificados/imagenes/Diplomado.png";
 import { motion } from "framer-motion";
 import Reveal from "./Reveal";
 const projects = [
@@ -49,6 +50,12 @@ const projects = [
     image: certificado7,
     title: "Desarrollador Laravel - Course Completion",
     link: "https://drive.google.com/file/d/1xkmsvg7c-4JgkMc44njvsYdaqnUKMzjp/view?usp=sharing",
+  },
+  {
+    id: 8,
+    image: certificado8,
+    title: "Diplomado en aplicaciones profesionales de servidores web",
+    link: "https://drive.google.com/file/d/1aaD_mR17IRp0wCFUhiWuY9o-IVEtDd5g/view?usp=sharing",
   },
 ];
 

@@ -51,7 +51,7 @@ const Hero = () => {
             className="text-gray-200 md:text-7xl text-5xl tracking-tight mb-4"
           >
             Hey, I AM <br />
-            <span className="text-purple-500">ERICK GRANDA</span>
+            <span className="text-purple-500">ERIK GRANDA</span>
           </motion.p>
           <motion.p
             initial={{ opacity: 0 }}
@@ -71,7 +71,7 @@ const Hero = () => {
             className="flex flex-row items-center gap-6 my-4 md:mb-0"
           >
             <motion.a
-              href="https://drive.google.com/file/d/1RoE5PDki-pFui94MeZMG7gFra8ucvIh7/view?usp=sharing"
+              href="https://drive.google.com/file/d/1qI6YTfXjnTRmCiNC9BKE1plxVrTi_2RW/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{
@@ -93,7 +93,7 @@ const Hero = () => {
               </motion.a>
               <motion.a
                 whileHover={{ scale: 1.2 }}
-                href="https://www.linkedin.com/in/erick-granda-324739318/"
+                href="www.linkedin.com/in/erik-granda-324739318"
                 target="_blank"
                 rel="noopener noreferrer"
               >
